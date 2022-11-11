@@ -22,8 +22,7 @@ python main.py --dataset=Actor --epochs=500 --early_stopping=200 --hidden=32 --l
 model	|Cora	|CiteSeer	|PubMed|Cornell|Texas	|Wisconsin	|Actor
 ------ | -----  |----------- |---|--- | -----  |----------- |
 MIPGNN|	85.4% |	74.0%|	80.5%|91.2%|	92.9% |	91.6%|40.7%
------- | -----  |----------- |---|--- | -----  |----------- |
-MIPGNNa|84.4% |72.3%|79.9%|91.4%|92.2%|92.9%|41.1%
+
 
 model |Cora |CiteSeer |PubMed|Amazon Computers |Amazon Photo |Coauthor CS
 ------ | -----  |----------- |---|--- | -----  |----------- |
